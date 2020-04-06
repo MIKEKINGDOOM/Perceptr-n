@@ -1,0 +1,11 @@
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\obj\Debug\netcoreapp3.1\Perceptron_4Entrada.csprojAssemblyReference.cache
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\obj\Debug\netcoreapp3.1\Perceptron_4Entrada.AssemblyInfoInputs.cache
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\obj\Debug\netcoreapp3.1\Perceptron_4Entrada.AssemblyInfo.cs
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\bin\Debug\netcoreapp3.1\Perceptron_4Entrada.exe
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\bin\Debug\netcoreapp3.1\Perceptron_4Entrada.deps.json
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\bin\Debug\netcoreapp3.1\Perceptron_4Entrada.runtimeconfig.json
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\bin\Debug\netcoreapp3.1\Perceptron_4Entrada.runtimeconfig.dev.json
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\bin\Debug\netcoreapp3.1\Perceptron_4Entrada.dll
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\bin\Debug\netcoreapp3.1\Perceptron_4Entrada.pdb
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\obj\Debug\netcoreapp3.1\Perceptron_4Entrada.dll
+C:\Users\LUISK\source\repos\Perceptron_4Entrada\Perceptron_4Entrada\obj\Debug\netcoreapp3.1\Perceptron_4Entrada.pdb
