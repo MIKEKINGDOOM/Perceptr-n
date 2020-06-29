@@ -1,2 +1,2 @@
-# Perceptr-n
-1820 Dual
+Encriptador sencillo 
+1920 Dual
