@@ -1,0 +1,9 @@
+C:\Users\LUISK\source\repos\Encriptador\Encriptador\bin\Debug\Encriptador.exe.config
+C:\Users\LUISK\source\repos\Encriptador\Encriptador\bin\Debug\Encriptador.exe
+C:\Users\LUISK\source\repos\Encriptador\Encriptador\bin\Debug\Encriptador.pdb
+C:\Users\LUISK\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.csprojAssemblyReference.cache
+C:\Users\LUISK\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.Form1.resources
+C:\Users\LUISK\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.Properties.Resources.resources
+C:\Users\LUISK\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.csproj.GenerateResource.cache
+C:\Users\LUISK\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.exe
+C:\Users\LUISK\source\repos\Encriptador\Encriptador\obj\Debug\Encriptador.pdb
